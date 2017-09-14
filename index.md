@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenue chez les pistonnés du Jazz !
 
 You can use the [editor on GitHub](https://github.com/lespistonnesdujazz/siteofficiel/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
